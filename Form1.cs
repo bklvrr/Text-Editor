@@ -4,6 +4,7 @@ using System.Windows.Forms;
 using System.Windows.Forms.VisualStyles;
 using System.Xml.Serialization;
 
+
 namespace WinFormsApp1 {
     public partial class MainForm : Form {
 
@@ -15,9 +16,10 @@ namespace WinFormsApp1 {
         const int MAX_TEXT_SIZE = 100;
         const int MIN_TEXT_SIZE = 6;
 
-        public MainForm() {
+        //Конструктор 
+        public MainForm() { 
             InitializeComponent();
-        }
+        } 
 
         private void MainForm_Load(object sender, EventArgs e) {
 
