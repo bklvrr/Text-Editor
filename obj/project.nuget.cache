@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "te1in/waFWRRnVSZBG4xjDwchbRrUq25yTyR9CY+B0OWdSpv2XYdFEDEePRcrt3owh+vQ2apG9I+mVYnb4S1AA==",
+  "dgSpecHash": "gaNBnWGdUHW1nnlZOporMMZjiLJf1mWX/wZZk+707+QcH/gj0943gnvQpw2FrIlKzcE2kDkjekA1fBIYW3TZng==",
   "success": true,
-  "projectFilePath": "D:\\C#\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "projectFilePath": "D:\\C#\\WinFormsApp1\\WinFormsApp1\\TextEditor_WinFormsApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
